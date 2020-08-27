@@ -1,0 +1,12 @@
+This folder contains all the files that are related to ethereum 
+and smart contracts.
+
+* for compilation files 
+
+* for deployment files 
+
+* for managing the instance of the Factory contract ( used in new.js and index.js)
+
+* for managing the instance of Campaign 
+
+* for web3 provider configuration 

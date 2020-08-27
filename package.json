@@ -1,0 +1,25 @@
+{
+	"name": "ic",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha",
+		"start": "node server.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ethereumjs-wallet": "0.6.3",
+		"ganache-cli": "6.7.0",
+		"mocha": "6.2.2",
+		"next": "4.1.1",
+		"next-routes": "1.4.2",
+		"react": "16.10.2",
+		"react-dom": "16.10.2",
+		"semantic-ui-css": "2.4.1",
+		"semantic-ui-react": "0.88.1",
+		"solc": "0.4.17",
+		"truffle-hdwallet-provider": "1.0.17"
+	}
+}

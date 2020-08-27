@@ -1,0 +1,20 @@
+This folder comprises of various components which we have used multiple times 
+in our project.
+
+The purpose of these components is to avoid code reusability 
+and writing clean code. 
+
+
+
+************/* Standard React component boilerplate */************
+
+
+import React, { Component } from "react";
+
+class ContributeForm extends Component {
+	render() {}
+}
+
+export default ContributeForm;
+
+*******************************************************************
